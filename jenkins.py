@@ -1,6 +1,3 @@
-n = 'Atharva'
-R = 1
-B = 'T1'
-print(n)
-print(R)
-print(B)
+print("Name = Atharva")
+print("Roll no = 1")
+print("Batch = T1")
