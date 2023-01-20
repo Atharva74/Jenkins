@@ -1,6 +1,6 @@
-name = 'Atharva'
-Roll no = 01
-Batch = 'T1'
-print(name)
-print(Roll no)
-print(Batch)
+n = 'Atharva'
+R = 1
+B = 'T1'
+print(n)
+print(R)
+print(B)
